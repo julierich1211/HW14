@@ -1,0 +1,16 @@
+@import url(http://fonts.googleapis.com/css?family=Bubblegum+Sans&subset=latin,latin-ext);
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+
+body {
+
+    background-color: rgb(35,77,132);
+    height: 100%;
+    width: 100%;
+	text-align: center;
+	font: deeppink;
+	z-index: 1;
+ }
+
